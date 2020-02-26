@@ -1,0 +1,2 @@
+class ViolinMaker < ApplicationRecord
+end
